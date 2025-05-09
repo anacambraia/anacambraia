@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+  **Estudante de Design Digital pela Universidade Federal do Ceará (UFC), cursando o primeiro semestre.** ✔💖
 <!--
 **anacambraia/anacambraia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
